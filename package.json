@@ -11,6 +11,7 @@
     "grid": "^4.10.8",
     "gridjs": "^5.1.0",
     "js": "^0.1.0",
+    "nodemon": "^2.0.22",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
